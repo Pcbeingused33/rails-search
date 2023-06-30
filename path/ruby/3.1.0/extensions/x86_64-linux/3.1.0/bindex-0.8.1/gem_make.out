@@ -1,0 +1,15 @@
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+/home/ale/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/ale/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20230629-73312-nx3hqm.rb extconf.rb
+creating Makefile
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= clean
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\=
+compiling cruby.c
+linking shared-object skiptrace/internal/cruby.so
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bindex-0.8.1/ext/skiptrace
+make DESTDIR\= install
+/usr/bin/install -m 0755 cruby.so ./.gem.20230629-73312-x389ud/skiptrace/internal

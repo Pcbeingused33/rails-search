@@ -1,0 +1,15 @@
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+/home/ale/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/ale/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20230629-73312-xo5hqk.rb extconf.rb
+creating Makefile
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= clean
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\=
+compiling bootsnap.c
+linking shared-object bootsnap/bootsnap.so
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/bootsnap-1.16.0/ext/bootsnap
+make DESTDIR\= install
+/usr/bin/install -m 0755 bootsnap.so ./.gem.20230629-73312-luiem2/bootsnap

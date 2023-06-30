@@ -1,0 +1,16 @@
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+/home/ale/.rvm/rubies/ruby-3.1.2/bin/ruby -I /home/ale/.rvm/rubies/ruby-3.1.2/lib/ruby/3.1.0 -r ./siteconf20230629-73312-jnfcwf.rb extconf.rb
+creating Makefile
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= clean
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\=
+compiling debug.c
+compiling iseq_collector.c
+linking shared-object debug/debug.so
+
+current directory: /home/ale/code/Pcbeingused33/rails-search/path/ruby/3.1.0/gems/debug-1.8.0/ext/debug
+make DESTDIR\= install
+/usr/bin/install -m 0755 debug.so ./.gem.20230629-73312-qvyj9m/debug
